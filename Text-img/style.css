@@ -1,0 +1,30 @@
+.text-img {
+    font-size:50px;
+    background: url("flag.gif");
+    background-size: cover;
+    margin-left: 12vw;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h1{
+    margin-left: 20vw;
+}
+
+h3{
+    font-size: 35px;
+    text-align: center;
+}
+
+h2{
+    font-size: 90px;
+    text-align: center;
+}
+
+.ind-img{
+    font-size:50px;
+    background: url("india-flag.jpg");
+    background-size: cover;
+    margin-left: 3vw;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
